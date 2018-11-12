@@ -1,3 +1,3 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" xml:lang="en-us" SourceControlBound="false" Comment="This template is similar to the other Top Navigation and PDF Basic template, but it is even simpler. The online Home page is more basic, and there is only one stylesheet and one master page." MasterStylesheet="/Content/Resources/Stylesheets/styles.css">
+<CatapultProject Version="1" xml:lang="en-us" SourceControlBound="true" Comment="This template is similar to the other Top Navigation and PDF Basic template, but it is even simpler. The online Home page is more basic, and there is only one stylesheet and one master page." MasterStylesheet="/Content/Resources/Stylesheets/styles.css" SourceControlProviderType="Git">
 </CatapultProject>
