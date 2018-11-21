@@ -168,6 +168,22 @@ html.pulseTopic .main-section .row.outer-row
 	padding: 0;
 }
 
+MadCap|glossaryTerm
+{
+	
+}
+
+MadCap|glossaryTerm:hover
+{
+	color: #5f9ea0;
+}
+
+MadCap|glossaryTerm.Popup
+{
+	width: 350px;
+	color: #778899;
+}
+
 @media print
 {
 	body
@@ -320,4 +336,10 @@ html.pulseTopic .main-section .row.outer-row
 		margin-left: 0.10in;
 		margin-top: 2px;
 	}
+
+	MadCap|glossaryTerm
+	{
+		
+	}
 }
+

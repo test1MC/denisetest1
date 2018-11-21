@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultGlossary>
   <GlossaryEntry
     glossTerm="Glossary.Term0">
@@ -129,7 +129,10 @@
       Link="">A comment that is used to explain a specific area of the text. Both the area in the text and the comment contain a number or symbol that ties the two together. A footnote (or endnote) comment can be placed at the end of a page, document, chapter, section, or book.</Definition>
   </GlossaryEntry>
   <GlossaryEntry
-    glossTerm="Glossary.Term15">
+    glossTerm="Glossary.Term15"
+    TermClass="Popup"
+    Stem=""
+    IgnoreCase="false">
     <Terms>
       <Term>Batch target</Term>
     </Terms>
