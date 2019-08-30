@@ -20,7 +20,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/git_pub.fldes"
+      Link="/Project/Destinations/Git.fldes"
       Publish="true" />
   </Destinations>
 </CatapultTarget>
